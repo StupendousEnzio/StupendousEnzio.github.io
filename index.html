@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="header-bar">
+  <img src="/img/avataaars.png" alt="Avatar" class="avatar">
+<!--
+  <img class="col middle one" src="/img/prof_pic.jpg">
+  <h1>Welcome</h1>
+-->
+  <br/>
+    <h1>Hi, I'm Aditya Aranya</h1>
+    <p> Master of Information Technonolgy graduate from the <a style="font-weight:bold; color:darkcyan;" href="https://www.uts.edu.au/">University of Technology Sydney </a> </p>
+    <p> Software Engineer with expertise in Data Science</p>
+    <p> Feel free to look around, checkout my<a style="font-weight:bold; color:darkcyan;" href="https://drive.google.com/file/d/17b_odEhS4iSdlQ-mEga1o1BQHaLZaAKM/view?usp=sharing"> Resume</a>,
+      or get in touch</p>
+  <br/>
+</div>
+
+
+
+
+<ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p>{{ post.description }}</p>
+        <br/>
+        <hr/>
+      </li>
+    {% endfor %}
+</ul>
