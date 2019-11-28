@@ -1,0 +1,44 @@
+---
+layout: post
+title: The "Conversation"
+description: Bridging the communication gap between technical and non-technical stakeholders in Data Science 
+tags: [Data Science-Stakeholder Management-Business]
+---
+
+The following is a conversation between a non technical stakeholder and a recently hired junior data scientist in digital marketing industry. The curiosity of the executive to explore the possibilities of business with a DS and the DS approach to make the executive understand with the collective combination of Technicality and English is what many organizations struggle.
+
+Below you can find a good communication approach.
+
+Lets call a senior executive as *Tom* and junior DS as *Jerry*
+
+<font size="+2">Tom:</font>
+Hi Jerry, welcome aboard. I am only superficially aware of how a data scientist can be able to help a financial comparison business, but I am instinctively quite sure there are some good opportunities. Unfortunately, two of my executive associates are travelling overseas and I am really curious of how a Data Scientist can help us, hence this message. As you know we are a team of 200+ employees spread all over the country with our digital marketing spend of more than $1.5M / Month.
+
+<font size="+2">Jerry:</font>
+Hi Tom, I am very well and exited with this current opportunity. Yes, I am very well aware of the quantifications and would be more than happy to share my perspective to the betterment of how we do business. It will be great if you can give me a detailed list of questions so that I can revert on that.
+
+<font size="+2">Tom:</font>
+Great! Broadly speaking, there are a few areas where a data scientist could help us:
+
+- Helping to build out our marketing dashboard / reporting... At the moment, we work largely on a cost per lead target, but we're ultimately making our money on a % of sale... So for example, on our health insurance vertical, on a CPL basis, a single in their 20's is going to be worth waay less than a family in their 50's.
+
+- Figuring out call center triage... Our model is still very much telesales based, and I think we could see a big improvement in sale rate if we had a system in place to prioritise certain leads over others...At the moment, it's pretty much a first come first serve type system.
+
+- Figuring out optimal times to communicate with people in the right way and at the right time... For example, once someone has left a lead and is in our sales funnel, how do we know when is the best time to call / email / sms them?
+
+And yeah, beyond that I'm sure there are other opportunities that I haven't identified because I'm not exactly sure what a data scientist is capable of.
+
+<font size="+2">Jerry:</font>
+Those are some really good questions, on initial screening of the information provided, there are multiple ways to tackle these scenarios efficiently.
+
+-	The revenue is generated on a percentage of cost per lead basis. So, reporting tools such as Power BI or Tableau will be useful as they provide insights based on multiple parameters. Here, for example, to ultimately increase revenue we must categorize the lead in age brackets and predict the score of an individual likely to convert. This is a classification problem and there are numerous algorithms present to give you the most efficient results. Reporting tool itself have a built-in functionality, but the use of statistics and programming will give you some amazing results which later on can be visualized by the tools we described to make informed decisions.
+
+-	So in digital marketing, the use of Adwords, Adsense along with doubleclick are used to gather information (as per my understanding) on how the advert is performing on multiple platforms giving us information about number of impressions, coverage, monetized page views, impressions per session, clicks, revenue per 1000 sessions so on and so forth. Here, the most crucial piece is the use of cookies/pixels/tag containers which have all the information of the customers activity for a specific product. We can make use of this information with the help of doubleclick to prioritize the leads who are likely to convert say a probable lead visits a blog on laptop A. The cookie is stored in his web browser. The lead goes to some other blog say blog 123 and looks for additional information about the laptop A. The cookie is triggered one more time and now we know that the lead is on high priority, providing a discount of 5% will most likely give us a prediction percentage to categorize this individual lead on high priority rather than first come first serve basis.
+
+-	There are multiple parameters to know when the best time is to communicate with the probable lead. There is something known as Identity resolution. Most of the time cookies get deleted but with the help of Identity resolution, we can actually put a ‘face’ on that cookie and now we have all the information of that individual which is of course based on the interaction of the user in the form of the text with 3rd party websites. This way we can tell when the person is most active on the internet, when is he in commute from point A to point B, probably using his cell phone and open to new emails or a phone call. I have observed that all the important mails for me are at 7 in the morning when I am most active on the internet and open for some fresh interaction, whereas my friend gets all the information at 10AM as he is most active that time of the day. Using time series analysis, we can use algorithms which recommend the best time for a group of people in an individual category.
+
+These are some of the things I can think of to the defined problems, but I am confident that after understanding in-depth business context there are many ways a data scientist can help the overall business. I would love to hear your thoughts on my suggestion, and it would be great if we could get in touch to discuss further.
+
+<font size="+2">Tom:</font>
+Amazing! This helps!
+Once we discuss the business problem in-depth we can have the scope of the project ready to get things going. I never had a clue about what a data scientist is capable of and the skills/tools at his disposal, but your expertise will come in handy for the future of this organization. I look forward to meet you on Monday. Cheers!  
