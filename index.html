@@ -16,17 +16,3 @@ layout: default
       or get in touch</p>
   <br/>
 </div>
-
-
-
-
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
