@@ -39,5 +39,5 @@ As a result of my education and perpetual curiosity, I have practical experience
 </span>
 
 <div class="col three caption">
-	You can shoot me a text via linkedin  
+	You can shoot an email via the envelope icon!  
 </div>
