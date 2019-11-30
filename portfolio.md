@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Science Portfolio 
+title: DataScience-Portfolio 
 description: A selection of cool stuff I have worked on, hover to find out!
 permalink: /portfolio/
 ---
