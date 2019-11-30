@@ -32,6 +32,7 @@ As a result of my education and perpetual curiosity, I have practical experience
 <hr/>
 <br/>
 <span class="contacticon center">
+	<a href="mailto:contact@adityaaranya.co"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/StupendousEnzio" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/aranyaa/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/AdityaAranya1" target="_blank"><i class="fa fa-twitter-square"></i></a>
