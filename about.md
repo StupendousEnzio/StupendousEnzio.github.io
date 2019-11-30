@@ -39,5 +39,5 @@ As a result of my education and perpetual curiosity, I have practical experience
 </span>
 
 <div class="col three caption">
-	You can shoot an email via the envelope icon!  
+	You can shoot an email to my personal email-address via the envelope icon!  
 </div>
