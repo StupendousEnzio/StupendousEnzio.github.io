@@ -25,3 +25,6 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
+    
+# Google Analytics
+google_analytics: UA-153621366-1
