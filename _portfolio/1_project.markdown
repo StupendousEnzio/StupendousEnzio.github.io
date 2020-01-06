@@ -137,7 +137,7 @@ To get further insight from the data we are going to use 'pandas prifile' functi
 #Summary statistics using pandas profile, the magic one line code
 df.profile_report(style={'full_width':True}, title='US Department of Labor', pool_size=4)
 ```
-<img src="{{site.baseurl}}/img/Screenshot_2019-11-26 US Department of Labor.png" style="width:2000px;height:2200px;">
+<img src="{{site.baseurl}}/img/Screenshot_2019-11-26 US Department of Labor.png" style="width:1800px;height:4000px;">
 
 The pandas_profile function has some interesting things to portray:
 - The dataset has a total of 0.9% missing values followed by 12.4% Duplicate rows.
